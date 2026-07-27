@@ -1,15 +1,15 @@
 # Developing a Neural Network Regression Model
 
-## AIM
+## AIM:
 To develop a neural network regression model for the given dataset.
 
-## THEORY
+## THEORY:
 Regression problems involve predicting a continuous output variable based on input features. Traditional linear regression models often struggle with complex patterns in data. Neural networks, specifically feedforward neural networks, can capture these complex relationships by using multiple layers of neurons and activation functions. In this experiment, a neural network model is introduced with a single linear layer that learns the parameters weight and bias using gradient descent.
 
 ## Neural Network Model
 Include the neural network model diagram.
 
-## DESIGN STEPS
+## DESIGN STEPS:
 ### STEP 1: Generate Dataset
 
 Create input values  from 1 to 50 and add random noise to introduce variations in output values .
@@ -39,5 +39,5 @@ Plot the original dataset along with the learned linear model.
 Use the trained model to predict  for a new input value .
 
 
-## RESULT
+## RESULT:
 Thus, a neural network regression model was successfully developed and trained using PyTorch.
